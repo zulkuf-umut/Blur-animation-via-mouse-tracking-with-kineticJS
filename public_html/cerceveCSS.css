@@ -1,0 +1,22 @@
+body {
+    background: gray;
+}
+
+#canvas {
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    
+}
+#deneme {
+    position: absolute;
+    top: 550px;
+    left: 500px;
+}
+#container {
+    position: absolute;
+    top:0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
